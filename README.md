@@ -1,11 +1,12 @@
+
 # confession.html
 
 
 this HTML allows you to confess INDIRECTLY
 
 # preview
+![New Project 58  65BC691](https://github.com/m9rduck/test/assets/94610528/1b11cba1-9858-4b2c-b02e-203e003cb9ac)
 
-![Screenshot_2023-06-11_124552](https://github.com/m9rduck/test/assets/94610528/79e72f0a-1118-400c-bad1-3aef4d149db5)
 
 # description 
 
