@@ -9,8 +9,8 @@ this HTML allows you to confess INDIRECTLY
 
 # description 
 
-two options are given, but the other one is invincible.
+two options are given, but the other one is invalid (in conclusion)
 
 # background information
 
-this thing is hilarious, even if you want to confess to someone, this thing would be used
+it worked on me
