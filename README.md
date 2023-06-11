@@ -9,7 +9,7 @@ this HTML allows you to confess INDIRECTLY
 
 # description 
 
-two options are given, but you the other one is invincible
+two options are given, but the other one is invincible.
 
 # background information
 
